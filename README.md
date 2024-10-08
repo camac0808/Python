@@ -8,6 +8,7 @@
 - git commit  
 - git push 
 
-## 알고리즘
+
+## ⭐ Main Study
 
 ### 검색 알고리즘
