@@ -1,11 +1,8 @@
 # 👨‍👩‍👦‍👦 Python 👨‍👩‍👦‍👦
 파이썬 알고리즘 공부
-
-
-
-
-        
-
+<br>
+<br>
+<br>
 ## 💻 Getting Started
 - 리포지토리 생성  
 - git clone으로 복사  
