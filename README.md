@@ -6,3 +6,7 @@
 git clone으로 복사  
 git commit  
 git push 
+
+## 알고리즘
+
+### 검색 알고리즘
